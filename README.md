@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey, I'm Aasish Thapa
+🚀 Digital Marketing • SEO • Growth • Gaming
 
-<!--
-**Asish-thapa/Asish-thapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about digital marketing, building online presence, and helping brands grow.
+When I’m away from work, I’m usually gaming or exploring something new. 🎮
 
-Here are some ideas to get you started:
+💼 What I Do
+📈 Digital Marketing
+🔎 SEO & Online Growth
+📱 Social Media & Content Strategy
+🎯 Brand Building
+🎮 Outside Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gaming is my way to relax, compete, and have fun.
+
+📊 Let's Connect
+
+[LinkedIn](www.linkedin.com/in/aasish-thapa/)
+
+Always learning. Always creating. Always growing.
